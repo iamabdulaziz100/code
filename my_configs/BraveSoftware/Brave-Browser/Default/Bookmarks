@@ -1,0 +1,47 @@
+{
+   "checksum": "f6c5ebc1561e2b0f66a81e5aedc2f216",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13411486230520464",
+            "date_last_used": "0",
+            "guid": "47f19ca0-e0d5-462e-8d9c-12b7aff82e32",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Game of Thrones full HD Free - TheFlixer",
+            "type": "url",
+            "url": "https://theflixertv.to/watch-tv/watch-game-of-thrones-full-39539.4846660"
+         } ],
+         "date_added": "13410685619748314",
+         "date_last_used": "0",
+         "date_modified": "13411486230520464",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13410685619748314",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13410685619748314",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

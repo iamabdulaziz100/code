@@ -1,0 +1,6 @@
+2026/01/02-12:07:23.110 602 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/WebStorage/40/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/01/02-12:07:23.110 602 Recovering log #109
+2026/01/02-12:07:23.113 602 Reusing old log /home/yoink/.config/net.imput.helium/Default/WebStorage/40/IndexedDB/indexeddb.leveldb/000109.log 
+2026/01/02-12:18:30.718 602 Level-0 table #114: started
+2026/01/02-12:18:30.747 602 Level-0 table #114: 1670692 bytes OK
+2026/01/02-12:18:30.750 602 Delete type=0 #109

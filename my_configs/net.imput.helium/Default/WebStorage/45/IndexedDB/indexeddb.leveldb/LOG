@@ -1,0 +1,31 @@
+2025/11/20-08:20:58.174 6a0 Creating DB /home/yoink/.config/net.imput.helium/Default/WebStorage/45/IndexedDB/indexeddb.leveldb since it was missing.
+2025/11/20-08:20:58.180 6a0 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/WebStorage/45/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/11/20-08:20:59.295 6b7 Level-0 table #5: started
+2025/11/20-08:20:59.301 6b7 Level-0 table #5: 3741 bytes OK
+2025/11/20-08:20:59.308 6b7 Delete type=0 #3
+2025/11/20-08:20:59.310 6b6 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/20-08:21:01.820 6a2 Level-0 table #7: started
+2025/11/20-08:21:01.824 6a2 Level-0 table #7: 41785 bytes OK
+2025/11/20-08:21:01.828 6a2 Delete type=0 #4
+2025/11/20-08:21:01.829 6a0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/20-08:22:21.631 6a2 Level-0 table #9: started
+2025/11/20-08:22:21.634 6a2 Level-0 table #9: 32216 bytes OK
+2025/11/20-08:22:21.638 6a2 Delete type=0 #6
+2025/11/20-08:22:21.639 6a0 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\xfa\x0d\xf1\xa9yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 624 : 1
+2025/11/20-08:22:21.639 6a0 Compacting 1@0 + 1@1 files
+2025/11/20-08:22:21.642 6a0 Generated table #10@0: 157 keys, 4702 bytes
+2025/11/20-08:22:21.642 6a0 Compacted 1@0 + 1@1 files => 4702 bytes
+2025/11/20-08:22:21.645 6a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/20-08:22:21.646 6a0 Delete type=2 #9
+2025/11/20-08:22:21.647 6a0 Manual compaction at level-0 from '\x00\x06\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\xfa\x0d\xf1\xa9yB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 624 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/20-08:22:21.647 6a0 Level-0 table #12: started
+2025/11/20-08:22:21.649 6a0 Level-0 table #12: 584 bytes OK
+2025/11/20-08:22:21.652 6a0 Delete type=2 #7
+2025/11/20-08:22:21.652 6a0 Delete type=0 #8
+2025/11/20-08:22:21.653 6a0 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 674 : 1
+2025/11/20-08:22:21.653 6a0 Compacting 1@0 + 1@1 files
+2025/11/20-08:22:21.655 6a0 Generated table #13@0: 161 keys, 4661 bytes
+2025/11/20-08:22:21.655 6a0 Compacted 1@0 + 1@1 files => 4661 bytes
+2025/11/20-08:22:21.658 6a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/20-08:22:21.659 6a0 Delete type=2 #12
+2025/11/20-08:22:21.659 6a0 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 674 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

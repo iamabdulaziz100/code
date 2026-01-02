@@ -1,0 +1,6 @@
+2025/12/30-19:44:37.632 5d8 Creating DB /home/yoink/.config/net.imput.helium/Default/WebStorage/107/IndexedDB/indexeddb.leveldb since it was missing.
+2025/12/30-19:44:37.636 5d8 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/WebStorage/107/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/12/30-19:48:49.797 5d9 Level-0 table #5: started
+2025/12/30-19:48:49.800 5d9 Level-0 table #5: 9243 bytes OK
+2025/12/30-19:48:49.802 5d9 Delete type=0 #3
+2025/12/30-19:48:49.802 5d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

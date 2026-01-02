@@ -1,0 +1,6 @@
+2025/11/14-20:59:24.467 6a5 Creating DB /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.kappa.com_0.indexeddb.leveldb since it was missing.
+2025/11/14-20:59:24.473 6a5 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.kappa.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-20:59:26.772 6b9 Level-0 table #5: started
+2025/11/14-20:59:26.774 6b9 Level-0 table #5: 5664 bytes OK
+2025/11/14-20:59:26.778 6b9 Delete type=0 #3
+2025/11/14-20:59:26.779 6b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

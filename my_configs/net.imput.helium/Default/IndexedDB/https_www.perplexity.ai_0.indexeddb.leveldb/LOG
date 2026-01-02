@@ -1,0 +1,13 @@
+2025/12/20-09:31:48.832 137b Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/20-09:31:48.832 137b Recovering log #3
+2025/12/20-09:31:48.833 137b Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000003.log 
+2025/12/20-09:32:34.065 137c Level-0 table #5: started
+2025/12/20-09:32:34.094 137c Level-0 table #5: 1116445 bytes OK
+2025/12/20-09:32:34.096 137b Current memtable full; waiting...
+2025/12/20-09:32:34.097 137c Delete type=0 #3
+2025/12/20-09:32:34.099 137c Level-0 table #7: started
+2025/12/20-09:32:34.114 137c Level-0 table #7: 953987 bytes OK
+2025/12/20-09:32:34.118 137c Delete type=0 #4
+2025/12/20-09:32:34.578 137c Level-0 table #9: started
+2025/12/20-09:32:34.595 137c Level-0 table #9: 969620 bytes OK
+2025/12/20-09:32:34.598 137c Delete type=0 #6

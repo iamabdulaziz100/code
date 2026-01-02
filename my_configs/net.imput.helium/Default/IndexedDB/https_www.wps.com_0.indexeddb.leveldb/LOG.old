@@ -1,0 +1,10 @@
+2025/12/12-10:02:32.913 ee3 Creating DB /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb since it was missing.
+2025/12/12-10:02:32.916 ee3 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/12-10:02:32.924 ee4 Level-0 table #5: started
+2025/12/12-10:02:32.926 ee4 Level-0 table #5: 755 bytes OK
+2025/12/12-10:02:32.930 ee4 Delete type=0 #3
+2025/12/12-10:02:32.930 ed0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/12-10:02:33.479 ece Level-0 table #7: started
+2025/12/12-10:02:33.481 ece Level-0 table #7: 3277 bytes OK
+2025/12/12-10:02:33.484 ece Delete type=0 #4
+2025/12/12-10:02:33.484 ece Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

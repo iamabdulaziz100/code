@@ -1,0 +1,13 @@
+2025/11/28-16:26:29.267 5ea Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_olympus.mygreatlearning.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/28-16:26:29.267 5ea Recovering log #10
+2025/11/28-16:26:29.268 5ea Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_olympus.mygreatlearning.com_0.indexeddb.leveldb/000010.log 
+2025/11/28-16:26:29.536 5ff Level-0 table #14: started
+2025/11/28-16:26:29.540 5ff Level-0 table #14: 22426 bytes OK
+2025/11/28-16:26:29.543 5ff Delete type=0 #10
+2025/11/28-16:26:29.544 5eb Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 693 : 1
+2025/11/28-16:26:29.544 5eb Compacting 1@0 + 1@1 files
+2025/11/28-16:26:29.547 5eb Generated table #15@0: 64 keys, 10811 bytes
+2025/11/28-16:26:29.547 5eb Compacted 1@0 + 1@1 files => 10811 bytes
+2025/11/28-16:26:29.549 5eb compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/28-16:26:29.550 5eb Delete type=2 #14
+2025/11/28-16:26:29.550 5eb Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 693 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

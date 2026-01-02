@@ -1,0 +1,24 @@
+2026/01/02-10:47:11.405 616 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-10:47:11.406 616 Recovering log #1103
+2026/01/02-10:47:11.415 616 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001103.log 
+2026/01/02-10:47:11.489 601 Level-0 table #1108: started
+2026/01/02-10:47:11.505 601 Level-0 table #1108: 1505112 bytes OK
+2026/01/02-10:47:11.508 601 Delete type=0 #1103
+2026/01/02-10:47:17.177 602 Compacting 1@1 + 1@2 files
+2026/01/02-10:47:17.186 602 Generated table #1109@1: 2369 keys, 142451 bytes
+2026/01/02-10:47:17.186 602 Compacted 1@1 + 1@2 files => 142451 bytes
+2026/01/02-10:47:17.188 602 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/02-10:47:17.189 602 Delete type=2 #1105
+2026/01/02-10:47:17.189 602 Delete type=2 #1108
+2026/01/02-10:48:07.673 602 Level-0 table #1111: started
+2026/01/02-10:48:07.683 602 Level-0 table #1111: 474758 bytes OK
+2026/01/02-10:48:07.687 602 Delete type=0 #1107
+2026/01/02-10:48:07.687 602 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/02-10:48:07.687 602 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00/\x02\x1f\x03\x00`\xba~\xd0\xb7yB\x00\x03\x00\x00\x00\x00\x00 {@' @ 577040 : 1
+2026/01/02-10:48:07.687 602 Compacting 1@1 + 1@2 files
+2026/01/02-10:48:07.692 602 Generated table #1112@1: 2364 keys, 129079 bytes
+2026/01/02-10:48:07.692 602 Compacted 1@1 + 1@2 files => 129079 bytes
+2026/01/02-10:48:07.694 602 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/02-10:48:07.694 602 Delete type=2 #1109
+2026/01/02-10:48:07.694 602 Delete type=2 #1111
+2026/01/02-10:48:07.695 602 Manual compaction at level-1 from '\x00/\x02\x1f\x03\x00`\xba~\xd0\xb7yB\x00\x03\x00\x00\x00\x00\x00 {@' @ 577040 : 1 .. (end); will stop at (end)

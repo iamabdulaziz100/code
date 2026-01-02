@@ -1,0 +1,6 @@
+2026/01/01-13:25:01.040 852 Creating DB /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_6842e62ad70a489c681ef2be_2ddf8bdc.vscode.poridhi.io_0.indexeddb.leveldb since it was missing.
+2026/01/01-13:25:01.043 852 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_6842e62ad70a489c681ef2be_2ddf8bdc.vscode.poridhi.io_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/01-13:37:02.954 854 Level-0 table #5: started
+2026/01/01-13:37:02.958 854 Level-0 table #5: 82788 bytes OK
+2026/01/01-13:37:02.960 854 Delete type=0 #3
+2026/01/01-13:37:02.960 854 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

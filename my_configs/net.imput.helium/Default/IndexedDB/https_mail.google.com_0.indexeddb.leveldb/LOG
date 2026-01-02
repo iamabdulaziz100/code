@@ -1,0 +1,16 @@
+2025/12/13-07:39:02.810 11f8 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/13-07:39:02.810 11f8 Recovering log #64
+2025/12/13-07:39:02.811 11f8 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000064.log 
+2025/12/13-07:39:05.303 11f8 Compacting 2@0 + 1@1 files
+2025/12/13-07:39:05.352 11f8 Generated table #67@0: 1931 keys, 2166140 bytes
+2025/12/13-07:39:05.352 11f8 Compacted 2@0 + 1@1 files => 2166140 bytes
+2025/12/13-07:39:05.355 11f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/13-07:39:05.355 11f8 Delete type=2 #61
+2025/12/13-07:39:05.355 11f8 Delete type=2 #63
+2025/12/13-07:39:05.356 11f8 Delete type=2 #65
+2025/12/13-07:39:17.842 11f8 Compacting 1@1 + 1@2 files
+2025/12/13-07:39:17.857 11f8 Generated table #68@1: 123 keys, 177728 bytes
+2025/12/13-07:39:17.857 11f8 Compacted 1@1 + 1@2 files => 177728 bytes
+2025/12/13-07:39:17.859 11f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/13-07:39:17.860 11f8 Delete type=2 #58
+2025/12/13-07:39:17.860 11f8 Delete type=2 #67

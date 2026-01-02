@@ -1,0 +1,14 @@
+2025/12/29-19:15:25.503 1587 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/29-19:15:25.504 1587 Recovering log #47
+2025/12/29-19:15:25.504 1587 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000047.log 
+2025/12/29-19:15:25.504 1587 Delete type=2 #46
+2025/12/29-19:15:25.549 159c Level-0 table #52: started
+2025/12/29-19:15:25.553 159c Level-0 table #52: 944 bytes OK
+2025/12/29-19:15:25.560 159c Delete type=0 #47
+2025/12/29-19:15:25.561 1586 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 654 : 1
+2025/12/29-19:15:25.561 1586 Compacting 1@0 + 1@1 files
+2025/12/29-19:15:25.563 1586 Generated table #53@0: 53 keys, 1523 bytes
+2025/12/29-19:15:25.564 1586 Compacted 1@0 + 1@1 files => 1523 bytes
+2025/12/29-19:15:25.566 1586 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-19:15:25.567 1586 Delete type=2 #52
+2025/12/29-19:15:25.567 1586 Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 654 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

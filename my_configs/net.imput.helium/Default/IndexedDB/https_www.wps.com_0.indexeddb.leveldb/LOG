@@ -1,0 +1,24 @@
+2025/12/16-19:44:20.321 734 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/16-19:44:20.322 734 Recovering log #6
+2025/12/16-19:44:20.322 734 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb/000006.log 
+2025/12/16-19:44:20.335 748 Level-0 table #10: started
+2025/12/16-19:44:20.336 748 Level-0 table #10: 3373 bytes OK
+2025/12/16-19:44:20.339 748 Delete type=0 #6
+2025/12/16-19:44:20.339 734 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 269 : 1
+2025/12/16-19:44:20.340 734 Compacting 1@0 + 1@1 files
+2025/12/16-19:44:20.341 734 Generated table #11@0: 110 keys, 2345 bytes
+2025/12/16-19:44:20.341 734 Compacted 1@0 + 1@1 files => 2345 bytes
+2025/12/16-19:44:20.343 734 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-19:44:20.343 734 Delete type=2 #10
+2025/12/16-19:44:20.344 734 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 269 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-19:44:20.991 748 Level-0 table #13: started
+2025/12/16-19:44:20.993 748 Level-0 table #13: 3374 bytes OK
+2025/12/16-19:44:20.995 748 Delete type=2 #7
+2025/12/16-19:44:20.995 748 Delete type=0 #9
+2025/12/16-19:44:20.995 748 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 336 : 1
+2025/12/16-19:44:20.995 748 Compacting 1@0 + 1@1 files
+2025/12/16-19:44:20.997 748 Generated table #14@0: 119 keys, 2605 bytes
+2025/12/16-19:44:20.997 748 Compacted 1@0 + 1@1 files => 2605 bytes
+2025/12/16-19:44:20.999 748 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-19:44:20.999 748 Delete type=2 #13
+2025/12/16-19:44:20.999 748 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 336 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

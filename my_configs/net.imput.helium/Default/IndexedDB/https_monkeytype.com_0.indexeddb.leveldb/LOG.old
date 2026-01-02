@@ -1,0 +1,50 @@
+2025/12/27-18:48:20.776 5ba Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/27-18:48:20.777 5ba Recovering log #31
+2025/12/27-18:48:20.777 5ba Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000031.log 
+2025/12/27-18:48:20.828 5bb Level-0 table #37: started
+2025/12/27-18:48:20.829 5bb Level-0 table #37: 809 bytes OK
+2025/12/27-18:48:20.833 5bb Delete type=0 #31
+2025/12/27-18:48:20.833 5b9 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/27-18:48:49.519 5bb Level-0 table #39: started
+2025/12/27-18:48:49.520 5bb Level-0 table #39: 1550 bytes OK
+2025/12/27-18:48:49.523 5bb Delete type=0 #36
+2025/12/27-18:48:49.523 5ba Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 522 : 1
+2025/12/27-18:48:49.523 5ba Compacting 1@0 + 1@1 files
+2025/12/27-18:48:49.525 5ba Generated table #40@0: 28 keys, 1275 bytes
+2025/12/27-18:48:49.525 5ba Compacted 1@0 + 1@1 files => 1275 bytes
+2025/12/27-18:48:49.527 5ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/27-18:48:49.527 5ba Delete type=2 #39
+2025/12/27-18:48:49.527 5ba Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 522 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/27-18:49:37.189 5bb Level-0 table #42: started
+2025/12/27-18:49:37.191 5bb Level-0 table #42: 941 bytes OK
+2025/12/27-18:49:37.194 5bb Delete type=2 #37
+2025/12/27-18:49:37.195 5bb Delete type=0 #38
+2025/12/27-18:49:37.195 5ba Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 555 : 1
+2025/12/27-18:49:37.195 5ba Compacting 1@0 + 1@1 files
+2025/12/27-18:49:37.197 5ba Generated table #43@0: 36 keys, 1359 bytes
+2025/12/27-18:49:37.197 5ba Compacted 1@0 + 1@1 files => 1359 bytes
+2025/12/27-18:49:37.200 5ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/27-18:49:37.200 5ba Delete type=2 #42
+2025/12/27-18:49:37.201 5ba Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 555 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/27-18:50:29.898 5bb Level-0 table #45: started
+2025/12/27-18:50:29.900 5bb Level-0 table #45: 945 bytes OK
+2025/12/27-18:50:29.902 5bb Delete type=2 #40
+2025/12/27-18:50:29.903 5bb Delete type=0 #41
+2025/12/27-18:50:29.903 5b9 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 588 : 1
+2025/12/27-18:50:29.903 5b9 Compacting 1@0 + 1@1 files
+2025/12/27-18:50:29.905 5b9 Generated table #46@0: 44 keys, 1436 bytes
+2025/12/27-18:50:29.905 5b9 Compacted 1@0 + 1@1 files => 1436 bytes
+2025/12/27-18:50:29.907 5b9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/27-18:50:29.907 5b9 Delete type=2 #45
+2025/12/27-18:50:29.907 5b9 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 588 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/27-18:51:06.296 5ce Level-0 table #48: started
+2025/12/27-18:51:06.297 5ce Level-0 table #48: 944 bytes OK
+2025/12/27-18:51:06.300 5ce Delete type=2 #43
+2025/12/27-18:51:06.300 5ce Delete type=0 #44
+2025/12/27-18:51:06.301 5ba Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 621 : 1
+2025/12/27-18:51:06.301 5ba Compacting 1@0 + 1@1 files
+2025/12/27-18:51:06.303 5ba Generated table #49@0: 52 keys, 1516 bytes
+2025/12/27-18:51:06.303 5ba Compacted 1@0 + 1@1 files => 1516 bytes
+2025/12/27-18:51:06.306 5ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/27-18:51:06.306 5ba Delete type=2 #48
+2025/12/27-18:51:06.307 5ba Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 621 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

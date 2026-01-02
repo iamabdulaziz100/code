@@ -1,0 +1,40 @@
+2025/11/19-11:55:52.923 8c4 Creating DB /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_sidemenclothing.com_0.indexeddb.leveldb since it was missing.
+2025/11/19-11:55:52.927 8c4 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_sidemenclothing.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/19-11:55:53.034 8c6 Level-0 table #5: started
+2025/11/19-11:55:53.036 8c6 Level-0 table #5: 1351 bytes OK
+2025/11/19-11:55:53.039 8c6 Delete type=0 #3
+2025/11/19-11:55:53.039 8c4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/19-11:55:55.456 8d9 Level-0 table #7: started
+2025/11/19-11:55:55.462 8d9 Level-0 table #7: 13445 bytes OK
+2025/11/19-11:55:55.465 8d9 Delete type=0 #4
+2025/11/19-11:55:55.465 8d9 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/19-11:55:57.737 8c4 Level-0 table #9: started
+2025/11/19-11:55:57.739 8c4 Level-0 table #9: 6798 bytes OK
+2025/11/19-11:55:57.743 8c4 Delete type=0 #6
+2025/11/19-11:55:57.743 8c4 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 590 : 1
+2025/11/19-11:55:57.743 8c4 Compacting 1@0 + 1@1 files
+2025/11/19-11:55:57.746 8c4 Generated table #10@0: 234 keys, 11043 bytes
+2025/11/19-11:55:57.746 8c4 Compacted 1@0 + 1@1 files => 11043 bytes
+2025/11/19-11:55:57.749 8c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/19-11:55:57.750 8c4 Delete type=2 #9
+2025/11/19-11:55:57.750 8c4 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 590 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/19-11:57:42.395 8c5 Level-0 table #12: started
+2025/11/19-11:57:42.397 8c5 Level-0 table #12: 2561 bytes OK
+2025/11/19-11:57:42.399 8c5 Delete type=2 #7
+2025/11/19-11:57:42.399 8c5 Delete type=0 #8
+2025/11/19-11:57:42.399 8c5 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x003\x009\x007\x009\x007\x008\x004\x003\x005\x008\x008\x00:\x00w\x00e\x00b\x00:\x007\x00d\x005\x008\x00d\x00f\x00f\x00f\x00a\x006\x004\x00f\x00a\x00b\x001\x005\x001\x007\x00f\x00c\x00d\x001' @ 618 : 1
+2025/11/19-11:57:42.399 8c5 Compacting 1@0 + 1@1 files
+2025/11/19-11:57:42.401 8c5 Generated table #13@0: 252 keys, 11183 bytes
+2025/11/19-11:57:42.401 8c5 Compacted 1@0 + 1@1 files => 11183 bytes
+2025/11/19-11:57:42.404 8c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/19-11:57:42.404 8c5 Delete type=2 #10
+2025/11/19-11:57:42.404 8c5 Delete type=2 #12
+2025/11/19-11:57:42.405 8c5 Manual compaction at level-0 from '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x003\x009\x007\x009\x007\x008\x004\x003\x005\x008\x008\x00:\x00w\x00e\x00b\x00:\x007\x00d\x005\x008\x00d\x00f\x00f\x00f\x00a\x006\x004\x00f\x00a\x00b\x001\x005\x001\x007\x00f\x00c\x00d\x001' @ 618 : 1 .. (end); will stop at (end)
+2025/11/19-11:57:42.405 8c5 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x003\x009\x007\x009\x007\x008\x004\x003\x005\x008\x008\x00:\x00w\x00e\x00b\x00:\x007\x00d\x005\x008\x00d\x00f\x00f\x00f\x00a\x006\x004\x00f\x00a\x00b\x001\x005\x001\x007\x00f\x00c\x00d\x001' @ 654 : 1
+2025/11/19-11:57:42.405 8c5 Compacting 1@1 + 1@2 files
+2025/11/19-11:57:42.406 8c5 Generated table #14@1: 73 keys, 9043 bytes
+2025/11/19-11:57:42.407 8c5 Compacted 1@1 + 1@2 files => 9043 bytes
+2025/11/19-11:57:42.408 8c5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/19-11:57:42.409 8c5 Delete type=2 #5
+2025/11/19-11:57:42.409 8c5 Delete type=2 #13
+2025/11/19-11:57:42.409 8c5 Manual compaction at level-1 from '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x003\x009\x007\x009\x007\x008\x004\x003\x005\x008\x008\x00:\x00w\x00e\x00b\x00:\x007\x00d\x005\x008\x00d\x00f\x00f\x00f\x00a\x006\x004\x00f\x00a\x00b\x001\x005\x001\x007\x00f\x00c\x00d\x001' @ 654 : 1 .. (end); will stop at (end)

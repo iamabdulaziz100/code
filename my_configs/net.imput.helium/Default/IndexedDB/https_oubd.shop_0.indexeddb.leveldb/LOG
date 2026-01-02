@@ -1,0 +1,7 @@
+2025/12/24-09:24:18.087 609 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_oubd.shop_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/24-09:24:18.087 609 Recovering log #4
+2025/12/24-09:24:18.088 609 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_oubd.shop_0.indexeddb.leveldb/000004.log 
+2025/12/24-09:24:18.095 60b Level-0 table #8: started
+2025/12/24-09:24:18.097 60b Level-0 table #8: 1919 bytes OK
+2025/12/24-09:24:18.100 60b Delete type=0 #4
+2025/12/24-09:24:18.100 609 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

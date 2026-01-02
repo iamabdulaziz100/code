@@ -1,0 +1,18 @@
+2026/01/02-09:26:38.362 5 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/Session Storage/MANIFEST-000001
+2026/01/02-09:26:38.365 5 Recovering log #360
+2026/01/02-09:26:38.367 5 Reusing old log /home/yoink/.config/net.imput.helium/Default/Session Storage/000360.log 
+2026/01/02-10:47:09.812 7 Level-0 table #364: started
+2026/01/02-10:47:09.838 7 Level-0 table #364: 203950 bytes OK
+2026/01/02-10:47:09.843 7 Delete type=0 #360
+2026/01/02-10:47:09.845 7 Compacting 4@0 + 1@1 files
+2026/01/02-10:47:09.888 7 Generated table #365@0: 21436 keys, 578875 bytes
+2026/01/02-10:47:09.888 7 Compacted 4@0 + 1@1 files => 578875 bytes
+2026/01/02-10:47:09.891 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/02-10:47:09.892 7 Delete type=2 #352
+2026/01/02-10:47:09.892 7 Delete type=2 #355
+2026/01/02-10:47:09.892 7 Delete type=2 #358
+2026/01/02-10:47:09.892 7 Delete type=2 #361
+2026/01/02-10:47:09.893 7 Delete type=2 #364
+2026/01/02-10:47:17.792 7 Level-0 table #367: started
+2026/01/02-10:47:17.796 7 Level-0 table #367: 157335 bytes OK
+2026/01/02-10:47:17.799 7 Delete type=0 #363

@@ -1,0 +1,47 @@
+{
+   "checksum": "3d71cd497de825df7b1a5772e7faf603",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13410061371779999",
+         "date_last_used": "0",
+         "date_modified": "13410773114462621",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13410540048833263",
+            "date_last_used": "0",
+            "guid": "4521e490-6097-41f6-b3a2-d7596771f493",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Webhook.site - Test, transform and automate Web requests and emails",
+            "type": "url",
+            "url": "https://webhook.site/#!/view/9e165308-d21f-46a5-803f-0d0780fb1356"
+         } ],
+         "date_added": "13410061371779999",
+         "date_last_used": "0",
+         "date_modified": "13411736722935179",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13410061371779999",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

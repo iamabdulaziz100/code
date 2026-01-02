@@ -1,0 +1,13 @@
+2025/11/29-10:10:42.987 5f8 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.netacad.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/29-10:10:42.988 5f8 Recovering log #9
+2025/11/29-10:10:42.990 5f8 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.netacad.com_0.indexeddb.leveldb/000009.log 
+2025/11/29-10:10:42.992 5fa Level-0 table #14: started
+2025/11/29-10:10:42.996 5fa Level-0 table #14: 78144 bytes OK
+2025/11/29-10:10:42.999 5fa Delete type=0 #9
+2025/11/29-10:10:42.999 5fa Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x02\x02\x01\x06\x00s\x00t\x00a\x00t\x00e\x00s' @ 807 : 1
+2025/11/29-10:10:42.999 5fa Compacting 1@0 + 1@1 files
+2025/11/29-10:10:43.002 5fa Generated table #15@0: 493 keys, 10339 bytes
+2025/11/29-10:10:43.002 5fa Compacted 1@0 + 1@1 files => 10339 bytes
+2025/11/29-10:10:43.004 5fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/29-10:10:43.004 5fa Delete type=2 #14
+2025/11/29-10:10:43.005 5f8 Manual compaction at level-0 from '\x00\x05\x02\x02\x01\x06\x00s\x00t\x00a\x00t\x00e\x00s' @ 807 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

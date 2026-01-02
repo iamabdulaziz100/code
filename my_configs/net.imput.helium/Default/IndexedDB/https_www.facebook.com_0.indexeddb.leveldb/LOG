@@ -1,0 +1,19 @@
+2026/01/02-11:18:27.503 602 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/02-11:18:27.504 602 Recovering log #124
+2026/01/02-11:18:27.509 602 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000124.log 
+2026/01/02-11:22:19.922 602 Level-0 table #132: started
+2026/01/02-11:22:19.957 602 Level-0 table #132: 1508496 bytes OK
+2026/01/02-11:22:19.960 602 Delete type=0 #124
+2026/01/02-11:22:28.712 602 Compacting 1@1 + 4@2 files
+2026/01/02-11:22:28.772 602 Generated table #133@1: 35743 keys, 2168555 bytes
+2026/01/02-11:22:28.799 602 Generated table #134@1: 29987 keys, 2206084 bytes
+2026/01/02-11:22:28.809 602 Generated table #135@1: 1771 keys, 2120597 bytes
+2026/01/02-11:22:28.821 602 Generated table #136@1: 2943 keys, 2115489 bytes
+2026/01/02-11:22:28.825 602 Generated table #137@1: 3553 keys, 163446 bytes
+2026/01/02-11:22:28.825 602 Compacted 1@1 + 4@2 files => 8774171 bytes
+2026/01/02-11:22:28.827 602 compacted to: files[ 0 0 5 0 0 0 0 ]
+2026/01/02-11:22:28.827 602 Delete type=2 #126
+2026/01/02-11:22:28.827 602 Delete type=2 #127
+2026/01/02-11:22:28.827 602 Delete type=2 #128
+2026/01/02-11:22:28.827 602 Delete type=2 #129
+2026/01/02-11:22:28.827 602 Delete type=2 #132

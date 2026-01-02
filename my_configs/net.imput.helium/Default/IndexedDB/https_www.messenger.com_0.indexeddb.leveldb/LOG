@@ -1,0 +1,25 @@
+2025/12/30-17:17:51.369 5d8 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/30-17:17:51.370 5d8 Recovering log #248
+2025/12/30-17:17:51.391 5d8 Reusing old log /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000248.log 
+2025/12/30-17:18:13.579 5d8 Level-0 table #258: started
+2025/12/30-17:18:13.594 5d8 Level-0 table #258: 514251 bytes OK
+2025/12/30-17:18:13.597 5d8 Delete type=0 #248
+2025/12/30-17:18:13.598 5d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/30-17:18:13.598 5d8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0c\x04 \x04\x01\x03\x00\x00\x00\x00\x00\x00\x14@\x00\x03\x00\x00\x00\x00\x00\x9c\x9c@' @ 1072681 : 1
+2025/12/30-17:18:13.598 5d8 Compacting 1@1 + 6@2 files
+2025/12/30-17:18:13.637 5d8 Generated table #259@1: 15466 keys, 2142033 bytes
+2025/12/30-17:18:13.719 5d8 Generated table #260@1: 71596 keys, 2215354 bytes
+2025/12/30-17:18:13.753 5d8 Generated table #261@1: 10627 keys, 2136479 bytes
+2025/12/30-17:18:13.776 5d8 Generated table #262@1: 2476 keys, 2120505 bytes
+2025/12/30-17:18:13.791 5d8 Generated table #263@1: 162 keys, 2108254 bytes
+2025/12/30-17:18:13.808 5d8 Generated table #264@1: 6577 keys, 926665 bytes
+2025/12/30-17:18:13.808 5d8 Compacted 1@1 + 6@2 files => 11649290 bytes
+2025/12/30-17:18:13.810 5d8 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/12/30-17:18:13.811 5d8 Delete type=2 #250
+2025/12/30-17:18:13.811 5d8 Delete type=2 #251
+2025/12/30-17:18:13.811 5d8 Delete type=2 #252
+2025/12/30-17:18:13.811 5d8 Delete type=2 #253
+2025/12/30-17:18:13.811 5d8 Delete type=2 #254
+2025/12/30-17:18:13.811 5d8 Delete type=2 #255
+2025/12/30-17:18:13.811 5d8 Delete type=2 #258
+2025/12/30-17:18:13.814 5d8 Manual compaction at level-1 from '\x00\x0c\x04 \x04\x01\x03\x00\x00\x00\x00\x00\x00\x14@\x00\x03\x00\x00\x00\x00\x00\x9c\x9c@' @ 1072681 : 1 .. (end); will stop at (end)

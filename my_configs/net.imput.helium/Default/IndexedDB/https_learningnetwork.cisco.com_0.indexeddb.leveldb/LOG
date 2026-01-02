@@ -1,0 +1,6 @@
+2025/11/28-10:28:05.695 1860 Creating DB /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_learningnetwork.cisco.com_0.indexeddb.leveldb since it was missing.
+2025/11/28-10:28:05.699 1860 Reusing MANIFEST /home/yoink/.config/net.imput.helium/Default/IndexedDB/https_learningnetwork.cisco.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/28-10:28:07.573 1875 Level-0 table #5: started
+2025/11/28-10:28:07.576 1875 Level-0 table #5: 13215 bytes OK
+2025/11/28-10:28:07.578 1875 Delete type=0 #3
+2025/11/28-10:28:07.579 1860 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
